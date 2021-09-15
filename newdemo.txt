@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 heyaaaaa
+=======
+hoy hoy
+>>>>>>> 9c6576f (B commit)
